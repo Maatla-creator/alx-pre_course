@@ -1,0 +1,1 @@
+Addingf directory 0x02-git to alx-pre_course
